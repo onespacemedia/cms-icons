@@ -1,4 +1,4 @@
-cd png
+cd png || exit
 echo '' > ../README.md
 printf "# cms-icons\n| Name | Preview | | | |\n| --- | --- | --- | --- | --- |\n" >> ../README.md
 for f in *.png;
