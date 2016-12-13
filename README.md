@@ -3,7 +3,7 @@
 <!-- https://github.com/onespacemedia/cms-icons/raw/master/png/i-_call-to-action-split.png -->
 
 | Name | Preview | PNG | EPS | SVG |
-| ------- | --- | --- | --- |
+| ---- | ------- | --- | --- | --- |
 | call-to-action-split | ![i-_call-to-action-split.png](./png/i-_call-to-action-split.png) | [EPS](./eps/i-_call-to-action-split.eps) | [PNG](./png/i-_call-to-action-split.png) | [SVG](./svg/i-_call-to-action-split.svg) |
 | call-to-action-with-image | ![i-_call-to-action-with-image.png](./png/i-_call-to-action-with-image.png) | [EPS](./eps/i-_call-to-action-with-image.eps) | [PNG](./png/i-_call-to-action-with-image.png) | [SVG](./svg/i-_call-to-action-with-image.svg) |
 | call-to-action | ![i-_call-to-action.png](./png/i-_call-to-action.png) | [EPS](./eps/i-_call-to-action.eps) | [PNG](./png/i-_call-to-action.png) | [SVG](./svg/i-_call-to-action.svg) |
