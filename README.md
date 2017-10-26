@@ -9,6 +9,7 @@
 | careers | ![i-_careers.png](./png/i-_careers.png) | [EPS](./eps/i-_careers.eps) | [PNG](./png/i-_careers.png) | [SVG](./svg/i-_careers.svg) |
 | events-featured | ![i-_events-featured.png](./png/i-_events-featured.png) | [EPS](./eps/i-_events-featured.eps) | [PNG](./png/i-_events-featured.png) | [SVG](./svg/i-_events-featured.svg) |
 | events | ![i-_events.png](./png/i-_events.png) | [EPS](./eps/i-_events.eps) | [PNG](./png/i-_events.png) | [SVG](./svg/i-_events.svg) |
+| faqs | ![i-_faqs.png](./png/i-_faqs.png) | [EPS](./eps/i-_faqs.eps) | [PNG](./png/i-_faqs.png) | [SVG](./svg/i-_faqs.svg) |
 | features-grid | ![i-_features-grid.png](./png/i-_features-grid.png) | [EPS](./eps/i-_features-grid.eps) | [PNG](./png/i-_features-grid.png) | [SVG](./svg/i-_features-grid.svg) |
 | fixed-nav | ![i-_fixed-nav.png](./png/i-_fixed-nav.png) | [EPS](./eps/i-_fixed-nav.eps) | [PNG](./png/i-_fixed-nav.png) | [SVG](./svg/i-_fixed-nav.svg) |
 | form-1 | ![i-_form-1.png](./png/i-_form-1.png) | [EPS](./eps/i-_form-1.eps) | [PNG](./png/i-_form-1.png) | [SVG](./svg/i-_form-1.svg) |
