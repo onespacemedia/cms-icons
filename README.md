@@ -5,8 +5,8 @@
 | call-to-action-split | ![call-to-action-split.png](./png/call-to-action-split.png) | [EPS](./eps/call-to-action-split.eps) | [PNG](./png/call-to-action-split.png) | [SVG](./svg/call-to-action-split.svg) |
 | call-to-action-with-image | ![call-to-action-with-image.png](./png/call-to-action-with-image.png) | [EPS](./eps/call-to-action-with-image.eps) | [PNG](./png/call-to-action-with-image.png) | [SVG](./svg/call-to-action-with-image.svg) |
 | call-to-action | ![call-to-action.png](./png/call-to-action.png) | [EPS](./eps/call-to-action.eps) | [PNG](./png/call-to-action.png) | [SVG](./svg/call-to-action.svg) |
-| caorusel-testimonial | ![caorusel-testimonial.png](./png/caorusel-testimonial.png) | [EPS](./eps/caorusel-testimonial.eps) | [PNG](./png/caorusel-testimonial.png) | [SVG](./svg/caorusel-testimonial.svg) |
 | careers | ![careers.png](./png/careers.png) | [EPS](./eps/careers.eps) | [PNG](./png/careers.png) | [SVG](./svg/careers.svg) |
+| carousel-testimonial | ![carousel-testimonial.png](./png/carousel-testimonial.png) | [EPS](./eps/carousel-testimonial.eps) | [PNG](./png/carousel-testimonial.png) | [SVG](./svg/carousel-testimonial.svg) |
 | events-featured | ![events-featured.png](./png/events-featured.png) | [EPS](./eps/events-featured.eps) | [PNG](./png/events-featured.png) | [SVG](./svg/events-featured.svg) |
 | events | ![events.png](./png/events.png) | [EPS](./eps/events.eps) | [PNG](./png/events.png) | [SVG](./svg/events.svg) |
 | faqs | ![faqs.png](./png/faqs.png) | [EPS](./eps/faqs.eps) | [PNG](./png/faqs.png) | [SVG](./svg/faqs.svg) |
